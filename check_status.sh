@@ -1,5 +1,6 @@
+#Check Status of Master Database
 #!/bin/bash
-HOSTS="172.29.233.28"
+HOSTS="dbx"
 
 COUNT=10
 
